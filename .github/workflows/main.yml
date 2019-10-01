@@ -1,0 +1,29 @@
+name: backup
+
+on:
+  schedule:
+    - cron:  '0 15 * * *'
+
+jobs:
+  backup:
+    name: backup
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - run: git checkout master
+    - run: git config user.name "GitHub Actions" && git config user.email "<>"
+    - uses: actions/setup-node@master
+      with:
+        node-version: '10.x'
+    - run: cd app && npm install --production
+    - run: cd app && node dist/index.js
+      env:
+        SENTRY_DSN: ${{ secrets.SENTRY_DSN }}
+        SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+        SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+        SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+        SPOTIFY_USER_ID: ${{ secrets.SPOTIFY_USER_ID }}
+    - run: git push "https://${GIT_USER_NAME}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" master
+      env:
+        GIT_USER_NAME: ${{ secrets.GIT_USER_NAME }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
