@@ -16,6 +16,17 @@
         }
       ],
       "addedAt": "2017-11-02T02:37:32Z"
+    },
+    {
+      "id": "2bL2gyO6kBdLkNSkxXNh6x",
+      "name": "Animals",
+      "artists": [
+        {
+          "id": "04gDigrS5kc9YWfZHwBETP",
+          "name": "Maroon 5"
+        }
+      ],
+      "addedAt": "2017-11-02T02:37:52Z"
     }
   ]
 }
