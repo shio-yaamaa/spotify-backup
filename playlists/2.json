@@ -27,6 +27,21 @@
         }
       ],
       "addedAt": "2017-11-02T02:37:52Z"
+    },
+    {
+      "id": "6uBhi9gBXWjanegOb2Phh0",
+      "name": "Stay",
+      "artists": [
+        {
+          "id": "2qxJFvFYMEDqd7ui6kSAcq",
+          "name": "Zedd"
+        },
+        {
+          "id": "2wUjUUtkb5lvLKcGKsKqsR",
+          "name": "Alessia Cara"
+        }
+      ],
+      "addedAt": "2017-11-02T02:38:06Z"
     }
   ]
 }
