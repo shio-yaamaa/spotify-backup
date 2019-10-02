@@ -294,6 +294,17 @@
         }
       ],
       "addedAt": "2018-07-03T12:01:52Z"
+    },
+    {
+      "id": "1FUViuNSldssMIawrOXF2i",
+      "name": "I Got You",
+      "artists": [
+        {
+          "id": "64M6ah0SkkRsnPGtGiRAbb",
+          "name": "Bebe Rexha"
+        }
+      ],
+      "addedAt": "2018-07-03T12:02:20Z"
     }
   ]
 }
