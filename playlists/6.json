@@ -31,6 +31,21 @@
         }
       ],
       "addedAt": "2019-05-22T15:27:46Z"
+    },
+    {
+      "id": "0p0ljM6RxgpGt7wthGqBZa",
+      "name": "Finest Hour (feat. Abir)",
+      "artists": [
+        {
+          "id": "1LOB7jTeEV14pHai6EXSzF",
+          "name": "Cash Cash"
+        },
+        {
+          "id": "3QUOtWgmuxFyae4C0Q0thd",
+          "name": "Abir"
+        }
+      ],
+      "addedAt": "2019-06-08T02:38:26Z"
     }
   ]
 }
