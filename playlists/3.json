@@ -332,6 +332,21 @@
         }
       ],
       "addedAt": "2019-01-05T11:01:55Z"
+    },
+    {
+      "id": "6mfLBYgOJrXiHApMlkimgR",
+      "name": "Electric Heart",
+      "artists": [
+        {
+          "id": "3AMFQZ3Tt549kShRG2IBYT",
+          "name": "Aiobahn"
+        },
+        {
+          "id": "6zq6KNF09GUIFltBdxaSb0",
+          "name": "PRYVT RYN"
+        }
+      ],
+      "addedAt": "2019-01-13T10:34:54Z"
     }
   ]
 }
