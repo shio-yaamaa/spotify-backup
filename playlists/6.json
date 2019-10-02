@@ -372,6 +372,21 @@
         }
       ],
       "addedAt": "2019-07-16T10:00:08Z"
+    },
+    {
+      "id": "3Kuu5vASpXK8oRsxOvau6P",
+      "name": "Think About You",
+      "artists": [
+        {
+          "id": "23fqKkggKUBHNkbKtXEls4",
+          "name": "Kygo"
+        },
+        {
+          "id": "6eVWXmKBW7Iltub01D9R1c",
+          "name": "Valerie Broussard"
+        }
+      ],
+      "addedAt": "2019-07-31T15:40:18Z"
     }
   ]
 }
