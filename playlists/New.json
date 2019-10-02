@@ -290,6 +290,17 @@
         }
       ],
       "addedAt": "2019-07-09T19:30:49Z"
+    },
+    {
+      "id": "5rxOcq7zyI5lDqVNJPRMX4",
+      "name": "Next To Me",
+      "artists": [
+        {
+          "id": "7yoh9onDM7XQFBepQTI6Qu",
+          "name": "Lvly"
+        }
+      ],
+      "addedAt": "2019-07-18T10:36:19Z"
     }
   ]
 }
