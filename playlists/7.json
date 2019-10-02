@@ -133,6 +133,21 @@
         }
       ],
       "addedAt": "2019-09-04T14:02:28Z"
+    },
+    {
+      "id": "2Hci37aYcM8FqbyTOCNf1u",
+      "name": "Risk It All",
+      "artists": [
+        {
+          "id": "4O1RimvFISoVTqB5BAAtYP",
+          "name": "Out There"
+        },
+        {
+          "id": "7wLyGTO9vUS7ndlq4BvBGe",
+          "name": "Blake Rose"
+        }
+      ],
+      "addedAt": "2019-09-04T14:55:54Z"
     }
   ]
 }
