@@ -1,5 +1,21 @@
 {
   "id": "1S4vmfmnviBwMUHDHXkkLm",
   "name": "1",
-  "tracks": []
+  "tracks": [
+    {
+      "id": "47OVNnZJzIkrsEiZ4n187p",
+      "name": "Mama",
+      "artists": [
+        {
+          "id": "1HBjj22wzbscIZ9sEb5dyf",
+          "name": "Jonas Blue"
+        },
+        {
+          "id": "5exS0bytCYdixgv02DaCm3",
+          "name": "William Singe"
+        }
+      ],
+      "addedAt": "2017-10-01T22:33:37Z"
+    }
+  ]
 }
