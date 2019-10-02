@@ -163,6 +163,21 @@
         }
       ],
       "addedAt": "2019-09-04T15:08:13Z"
+    },
+    {
+      "id": "5vGbTLOMiRwmr1P6pSWPdQ",
+      "name": "Invested",
+      "artists": [
+        {
+          "id": "6psCCMHymYfQy6VvYRr6cs",
+          "name": "Loving Caliber"
+        },
+        {
+          "id": "1n3DzHnevzEQZFDck6QUPI",
+          "name": "Lauren Dunn"
+        }
+      ],
+      "addedAt": "2019-09-04T15:08:24Z"
     }
   ]
 }
