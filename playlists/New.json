@@ -696,6 +696,21 @@
         }
       ],
       "addedAt": "2019-09-04T06:21:49Z"
+    },
+    {
+      "id": "0L1qutANHpBNK31BR79uxU",
+      "name": "It's Gonna Be Alright",
+      "artists": [
+        {
+          "id": "3yoJOUgWeJEC81UoZhYIdd",
+          "name": "Basixx"
+        },
+        {
+          "id": "7D5S8dldpjXQmdWCDnBtOL",
+          "name": "Easton"
+        }
+      ],
+      "addedAt": "2019-09-04T06:24:50Z"
     }
   ]
 }
