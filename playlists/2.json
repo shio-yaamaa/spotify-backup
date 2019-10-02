@@ -306,6 +306,21 @@
         }
       ],
       "addedAt": "2018-11-12T15:11:54Z"
+    },
+    {
+      "id": "6Gw2dHX6FsQcIuiWxe0vWk",
+      "name": "Boomerang",
+      "artists": [
+        {
+          "id": "4mHAu7NX2UNsnGXjviBD9e",
+          "name": "Brooks"
+        },
+        {
+          "id": "2xgAJkalFHfceCNGETOkyM",
+          "name": "GRX"
+        }
+      ],
+      "addedAt": "2019-01-05T10:32:21Z"
     }
   ]
 }
