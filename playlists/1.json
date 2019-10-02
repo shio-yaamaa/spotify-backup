@@ -151,6 +151,21 @@
         }
       ],
       "addedAt": "2017-10-17T21:49:30Z"
+    },
+    {
+      "id": "52yOf7Ls1u5AO3cFIzQ58m",
+      "name": "Cold",
+      "artists": [
+        {
+          "id": "04gDigrS5kc9YWfZHwBETP",
+          "name": "Maroon 5"
+        },
+        {
+          "id": "1RyvyyTE3xzB2ZywiAwp0i",
+          "name": "Future"
+        }
+      ],
+      "addedAt": "2017-10-17T21:53:52Z"
     }
   ]
 }
