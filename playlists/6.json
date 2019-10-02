@@ -16,6 +16,21 @@
         }
       ],
       "addedAt": "2019-05-18T14:59:27Z"
+    },
+    {
+      "id": "4eeX6TvBU6SyY21igcQ4VF",
+      "name": "Crazy",
+      "artists": [
+        {
+          "id": "2Wzb0u138rgoZQTK3ytknT",
+          "name": "BEAUZ"
+        },
+        {
+          "id": "0BMfVLB7t0VCzNBZZKBy6A",
+          "name": "JVNA"
+        }
+      ],
+      "addedAt": "2019-05-22T15:27:46Z"
     }
   ]
 }
