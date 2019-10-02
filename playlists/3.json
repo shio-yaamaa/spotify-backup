@@ -205,6 +205,21 @@
         }
       ],
       "addedAt": "2018-01-21T03:42:25Z"
+    },
+    {
+      "id": "2QtJA4gbwe1AcanB2p21aP",
+      "name": "Stay The Night - Featuring Hayley Williams Of Paramore",
+      "artists": [
+        {
+          "id": "2qxJFvFYMEDqd7ui6kSAcq",
+          "name": "Zedd"
+        },
+        {
+          "id": "6Rx1JKzBrSzoKQtmbVmBnM",
+          "name": "Hayley Williams"
+        }
+      ],
+      "addedAt": "2018-01-21T03:42:28Z"
     }
   ]
 }
