@@ -65,6 +65,21 @@
         }
       ],
       "addedAt": "2017-10-01T23:02:08Z"
+    },
+    {
+      "id": "60wwxj6Dd9NJlirf84wr2c",
+      "name": "Clarity",
+      "artists": [
+        {
+          "id": "2qxJFvFYMEDqd7ui6kSAcq",
+          "name": "Zedd"
+        },
+        {
+          "id": "7qRll6DYV06u2VuRPAVqug",
+          "name": "Foxes"
+        }
+      ],
+      "addedAt": "2017-10-05T20:33:42Z"
     }
   ]
 }
