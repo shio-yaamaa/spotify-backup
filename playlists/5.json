@@ -361,6 +361,17 @@
         }
       ],
       "addedAt": "2019-05-01T05:03:07Z"
+    },
+    {
+      "id": "79T9m6YkRCgP0955CE4UCd",
+      "name": "No Diggity",
+      "artists": [
+        {
+          "id": "69VkQLf4DH7GJ68BCDOPKL",
+          "name": "Campsite Dream"
+        }
+      ],
+      "addedAt": "2019-05-01T18:05:28Z"
     }
   ]
 }
