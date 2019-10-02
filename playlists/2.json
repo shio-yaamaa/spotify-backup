@@ -194,6 +194,21 @@
         }
       ],
       "addedAt": "2018-04-15T02:04:36Z"
+    },
+    {
+      "id": "1I8tHoNBFTuoJAlh4hfVVE",
+      "name": "Firestone (feat. Conrad Sewell)",
+      "artists": [
+        {
+          "id": "23fqKkggKUBHNkbKtXEls4",
+          "name": "Kygo"
+        },
+        {
+          "id": "1rw8ZTLnDHd74TWDDukjVi",
+          "name": "Conrad Sewell"
+        }
+      ],
+      "addedAt": "2018-04-15T02:04:52Z"
     }
   ]
 }
