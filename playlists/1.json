@@ -241,6 +241,21 @@
         }
       ],
       "addedAt": "2018-05-13T03:39:12Z"
+    },
+    {
+      "id": "2VYiQ9ijG3NER2aevaxzDi",
+      "name": "How To Love (feat. Sofia Reyes)",
+      "artists": [
+        {
+          "id": "1LOB7jTeEV14pHai6EXSzF",
+          "name": "Cash Cash"
+        },
+        {
+          "id": "0haZhu4fFKt0Ag94kZDiz2",
+          "name": "Sofia Reyes"
+        }
+      ],
+      "addedAt": "2018-05-13T03:39:22Z"
     }
   ]
 }
