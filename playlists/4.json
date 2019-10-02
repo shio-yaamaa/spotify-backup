@@ -112,6 +112,21 @@
         }
       ],
       "addedAt": "2019-02-06T01:39:09Z"
+    },
+    {
+      "id": "4pdPtRcBmOSQDlJ3Fk945m",
+      "name": "Let Me Love You",
+      "artists": [
+        {
+          "id": "540vIaP2JwjQb9dm3aArA4",
+          "name": "DJ Snake"
+        },
+        {
+          "id": "1uNFoZAHBGtllmzznpCI3s",
+          "name": "Justin Bieber"
+        }
+      ],
+      "addedAt": "2019-02-08T05:30:19Z"
     }
   ]
 }
