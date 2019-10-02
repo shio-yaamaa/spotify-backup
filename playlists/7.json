@@ -23,6 +23,21 @@
         }
       ],
       "addedAt": "2019-08-18T18:30:09Z"
+    },
+    {
+      "id": "2dpaYNEQHiRxtZbfNsse99",
+      "name": "Happier",
+      "artists": [
+        {
+          "id": "64KEffDW9EtZ1y2vBYgq8T",
+          "name": "Marshmello"
+        },
+        {
+          "id": "7EQ0qTo7fWT7DPxmxtSYEc",
+          "name": "Bastille"
+        }
+      ],
+      "addedAt": "2019-09-04T13:44:36Z"
     }
   ]
 }
