@@ -71,6 +71,25 @@
         }
       ],
       "addedAt": "2019-02-01T20:00:49Z"
+    },
+    {
+      "id": "4XGqzhzg4PDmdPEMWmi7r8",
+      "name": "Parallel Lines (feat. Happy Sometimes)",
+      "artists": [
+        {
+          "id": "5X4LWwbUFNzPkEas04uU82",
+          "name": "DVBBS"
+        },
+        {
+          "id": "78DWNk8gFHU30TGITAgbM7",
+          "name": "CMC$"
+        },
+        {
+          "id": "0ckyh9j60j9NvpBOc0qiFa",
+          "name": "Happy Sometimes"
+        }
+      ],
+      "addedAt": "2019-02-04T13:42:36Z"
     }
   ]
 }
