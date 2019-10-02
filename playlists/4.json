@@ -1,5 +1,21 @@
 {
   "id": "57UV1WunpviHsajQGUmjw1",
   "name": "4",
-  "tracks": []
+  "tracks": [
+    {
+      "id": "4edS9dC0JPBlSS4p4gMOT0",
+      "name": "This Feeling (feat. Kelsea Ballerini)",
+      "artists": [
+        {
+          "id": "69GGBxA162lTqCwzJG5jLp",
+          "name": "The Chainsmokers"
+        },
+        {
+          "id": "3RqBeV12Tt7A8xH3zBDDUF",
+          "name": "Kelsea Ballerini"
+        }
+      ],
+      "addedAt": "2019-01-19T06:16:25Z"
+    }
+  ]
 }
