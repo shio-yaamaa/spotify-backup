@@ -428,6 +428,17 @@
         }
       ],
       "addedAt": "2019-08-10T03:09:56Z"
+    },
+    {
+      "id": "1j6IBKTxEYmlYITveRwmwx",
+      "name": "Go Home",
+      "artists": [
+        {
+          "id": "6TaaqqCMRMSpvNHClfnbEL",
+          "name": "Maduk"
+        }
+      ],
+      "addedAt": "2019-08-13T14:29:09Z"
     }
   ]
 }
