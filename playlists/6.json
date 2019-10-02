@@ -1,5 +1,21 @@
 {
   "id": "53eJ5jiUcCXNXfjdo0Vc1d",
   "name": "6",
-  "tracks": []
+  "tracks": [
+    {
+      "id": "6hwF25W29VOWw1nZ76EAXY",
+      "name": "Dreams pt. II",
+      "artists": [
+        {
+          "id": "157L8iTHgbdrKVxdQEXluh",
+          "name": "Lost Sky"
+        },
+        {
+          "id": "1HQ26IHQ1Nu0Tq7EE7DV6y",
+          "name": "Sara Skinner"
+        }
+      ],
+      "addedAt": "2019-05-18T14:59:27Z"
+    }
+  ]
 }
