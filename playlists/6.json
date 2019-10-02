@@ -316,6 +316,21 @@
         }
       ],
       "addedAt": "2019-07-04T17:40:17Z"
+    },
+    {
+      "id": "46AaHeEjqXYEhg8EpjlORX",
+      "name": "The Winner",
+      "artists": [
+        {
+          "id": "6geC8EbDc3ifaSAbx3RESQ",
+          "name": "Tape Machines"
+        },
+        {
+          "id": "4ysa9WmL4Ac8X8lv6Ud7tC",
+          "name": "Frigga"
+        }
+      ],
+      "addedAt": "2019-07-04T17:43:43Z"
     }
   ]
 }
