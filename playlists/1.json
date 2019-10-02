@@ -95,6 +95,21 @@
         }
       ],
       "addedAt": "2017-10-06T01:22:40Z"
+    },
+    {
+      "id": "2ISSQPb9LHHiV6ng2NXosL",
+      "name": "Beautiful Now",
+      "artists": [
+        {
+          "id": "2qxJFvFYMEDqd7ui6kSAcq",
+          "name": "Zedd"
+        },
+        {
+          "id": "50JJSqHUf2RQ9xsHs0KMHg",
+          "name": "Jon Bellion"
+        }
+      ],
+      "addedAt": "2017-10-08T03:35:22Z"
     }
   ]
 }
