@@ -275,6 +275,21 @@
         }
       ],
       "addedAt": "2019-06-18T12:25:48Z"
+    },
+    {
+      "id": "6ilYHbAdArBHtCLyeCdYxm",
+      "name": "Departure",
+      "artists": [
+        {
+          "id": "3exvMmrLV6o4R42YnG3Id6",
+          "name": "Egzod"
+        },
+        {
+          "id": "0wmJGvPwnxnoXrmuPQevX4",
+          "name": "evOke"
+        }
+      ],
+      "addedAt": "2019-07-04T17:15:39Z"
     }
   ]
 }
