@@ -429,6 +429,17 @@
         }
       ],
       "addedAt": "2018-08-01T07:05:49Z"
+    },
+    {
+      "id": "1KgZOCjN3nGRTk3c87oIj6",
+      "name": "What We Live For",
+      "artists": [
+        {
+          "id": "0MlOPi3zIDMVrfA9R04Fe3",
+          "name": "American Authors"
+        }
+      ],
+      "addedAt": "2018-11-08T10:13:43Z"
     }
   ]
 }
