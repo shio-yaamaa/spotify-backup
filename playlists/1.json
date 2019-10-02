@@ -50,6 +50,21 @@
         }
       ],
       "addedAt": "2017-10-01T22:34:59Z"
+    },
+    {
+      "id": "7BKLCZ1jbUBVqRi2FVlTVw",
+      "name": "Closer",
+      "artists": [
+        {
+          "id": "69GGBxA162lTqCwzJG5jLp",
+          "name": "The Chainsmokers"
+        },
+        {
+          "id": "26VFTg2z8YR0cCuwLzESi2",
+          "name": "Halsey"
+        }
+      ],
+      "addedAt": "2017-10-01T23:02:08Z"
     }
   ]
 }
