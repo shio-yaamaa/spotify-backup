@@ -127,6 +127,21 @@
         }
       ],
       "addedAt": "2019-02-08T05:30:19Z"
+    },
+    {
+      "id": "5Orlnis8mwywCBgZG7VTjV",
+      "name": "Creatures Of The Night",
+      "artists": [
+        {
+          "id": "6BrvowZBreEkXzJQMpL174",
+          "name": "Hardwell"
+        },
+        {
+          "id": "04abdnqPQe2N4fjztDea6z",
+          "name": "Austin Mahone"
+        }
+      ],
+      "addedAt": "2019-02-09T07:10:09Z"
     }
   ]
 }
