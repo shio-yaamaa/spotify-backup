@@ -101,6 +101,17 @@
         }
       ],
       "addedAt": "2019-02-04T13:42:47Z"
+    },
+    {
+      "id": "2ekn2ttSfGqwhhate0LSR0",
+      "name": "New Rules",
+      "artists": [
+        {
+          "id": "6M2wZ9GZgrQXHCFfjv46we",
+          "name": "Dua Lipa"
+        }
+      ],
+      "addedAt": "2019-02-06T01:39:09Z"
     }
   ]
 }
