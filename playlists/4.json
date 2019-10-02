@@ -90,6 +90,17 @@
         }
       ],
       "addedAt": "2019-02-04T13:42:36Z"
+    },
+    {
+      "id": "25sgk305KZfyuqVBQIahim",
+      "name": "Sweet but Psycho",
+      "artists": [
+        {
+          "id": "4npEfmQ6YuiwW1GpUmaq3F",
+          "name": "Ava Max"
+        }
+      ],
+      "addedAt": "2019-02-04T13:42:47Z"
     }
   ]
 }
