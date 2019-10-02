@@ -127,6 +127,17 @@
         }
       ],
       "addedAt": "2017-11-10T21:52:21Z"
+    },
+    {
+      "id": "0gb1J5UrTpzaU1s3nupgCd",
+      "name": "No Money",
+      "artists": [
+        {
+          "id": "4sTQVOfp9vEMCemLw50sbu",
+          "name": "Galantis"
+        }
+      ],
+      "addedAt": "2017-11-10T21:52:37Z"
     }
   ]
 }
