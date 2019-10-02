@@ -305,6 +305,21 @@
         }
       ],
       "addedAt": "2018-07-03T12:02:20Z"
+    },
+    {
+      "id": "74vs7PD7iG2GnWUGnb8Yuq",
+      "name": "Middle Of The Night",
+      "artists": [
+        {
+          "id": "7gAppWoH7pcYmphCVTXkzs",
+          "name": "The Vamps"
+        },
+        {
+          "id": "4ehtJnVumNf6xzSCDk8aLB",
+          "name": "Martin Jensen"
+        }
+      ],
+      "addedAt": "2018-07-03T12:06:07Z"
     }
   ]
 }
