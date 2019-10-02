@@ -312,6 +312,21 @@
         }
       ],
       "addedAt": "2019-04-29T14:33:36Z"
+    },
+    {
+      "id": "2P7vvfenjedZobHmK7T8Th",
+      "name": "Wanted (feat. John Emil)",
+      "artists": [
+        {
+          "id": "7E1uMEIIE1zlkmcbyvJ92h",
+          "name": "Vinze"
+        },
+        {
+          "id": "5Ar3N6SdCpf7TD52FB2dbd",
+          "name": "John Emil"
+        }
+      ],
+      "addedAt": "2019-04-30T10:14:42Z"
     }
   ]
 }
