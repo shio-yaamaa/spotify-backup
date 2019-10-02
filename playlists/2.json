@@ -220,6 +220,21 @@
         }
       ],
       "addedAt": "2018-04-15T02:05:06Z"
+    },
+    {
+      "id": "47165S9Ppynsd9rIzVG4uS",
+      "name": "Nobody Compares To You",
+      "artists": [
+        {
+          "id": "2ZRQcIgzPCVaT9XKhXZIzh",
+          "name": "Gryffin"
+        },
+        {
+          "id": "1Q9KyQkc3vODeRt9OfItxl",
+          "name": "Katie Pearlman"
+        }
+      ],
+      "addedAt": "2018-04-15T02:05:41Z"
     }
   ]
 }
