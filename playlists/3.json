@@ -190,6 +190,21 @@
         }
       ],
       "addedAt": "2018-01-21T03:42:22Z"
+    },
+    {
+      "id": "0pwYLVXVknPSGUQb39cePC",
+      "name": "As Long As You Love Me",
+      "artists": [
+        {
+          "id": "1uNFoZAHBGtllmzznpCI3s",
+          "name": "Justin Bieber"
+        },
+        {
+          "id": "0c173mlxpT3dSFRgMO8XPh",
+          "name": "Big Sean"
+        }
+      ],
+      "addedAt": "2018-01-21T03:42:25Z"
     }
   ]
 }
