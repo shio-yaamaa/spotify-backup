@@ -617,6 +617,29 @@
         }
       ],
       "addedAt": "2019-09-02T07:18:48Z"
+    },
+    {
+      "id": "2U0pVx4m1Kdm1Gsjjm6iq8",
+      "name": "Strangers",
+      "artists": [
+        {
+          "id": "6fcTRFpz0yH79qSKfof7lp",
+          "name": "Seven Lions"
+        },
+        {
+          "id": "0nTbVTXLLbBA4xCtn0cFkv",
+          "name": "Myon"
+        },
+        {
+          "id": "2ITbqEgyp32vL3BxEFmQ1V",
+          "name": "Shane 54"
+        },
+        {
+          "id": "4NHQUGzhtTLFvgF5SZesLK",
+          "name": "Tove Lo"
+        }
+      ],
+      "addedAt": "2019-09-04T06:10:54Z"
     }
   ]
 }
