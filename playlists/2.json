@@ -64,6 +64,21 @@
         }
       ],
       "addedAt": "2017-11-02T02:38:31Z"
+    },
+    {
+      "id": "20hsdn8oITBsuWNLhzr5eh",
+      "name": "Byte",
+      "artists": [
+        {
+          "id": "60d24wfXkVzDSfLS6hyCjZ",
+          "name": "Martin Garrix"
+        },
+        {
+          "id": "4mHAu7NX2UNsnGXjviBD9e",
+          "name": "Brooks"
+        }
+      ],
+      "addedAt": "2017-11-02T02:38:41Z"
     }
   ]
 }
