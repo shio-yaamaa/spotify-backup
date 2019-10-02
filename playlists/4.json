@@ -254,6 +254,21 @@
         }
       ],
       "addedAt": "2019-02-15T01:31:48Z"
+    },
+    {
+      "id": "2Gl0FzuLxflY6nPifJp5Dr",
+      "name": "First Time",
+      "artists": [
+        {
+          "id": "23fqKkggKUBHNkbKtXEls4",
+          "name": "Kygo"
+        },
+        {
+          "id": "0X2BH1fck6amBIoJhDVmmJ",
+          "name": "Ellie Goulding"
+        }
+      ],
+      "addedAt": "2019-02-16T10:48:51Z"
     }
   ]
 }
