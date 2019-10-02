@@ -193,6 +193,25 @@
         }
       ],
       "addedAt": "2019-09-15T06:05:26Z"
+    },
+    {
+      "id": "0IXthpN1V2U8Y4aSQVfP8O",
+      "name": "Click & Scroll",
+      "artists": [
+        {
+          "id": "2jrBiKykLqcIp2S7GLiahy",
+          "name": "Cadmium"
+        },
+        {
+          "id": "3ovzCur1qBEh0enPyjPcc6",
+          "name": "Eli Raain"
+        },
+        {
+          "id": "3xIHOffeC188QWHIiCaLXr",
+          "name": "Veronica Bravo"
+        }
+      ],
+      "addedAt": "2019-09-15T06:05:53Z"
     }
   ]
 }
