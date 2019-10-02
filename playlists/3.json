@@ -373,6 +373,21 @@
         }
       ],
       "addedAt": "2019-01-13T10:53:19Z"
+    },
+    {
+      "id": "6kPJZM97LwdG9QIsT7khp6",
+      "name": "Solo (feat. Demi Lovato)",
+      "artists": [
+        {
+          "id": "6MDME20pz9RveH9rEXvrOM",
+          "name": "Clean Bandit"
+        },
+        {
+          "id": "6S2OmqARrzebs0tKUEyXyp",
+          "name": "Demi Lovato"
+        }
+      ],
+      "addedAt": "2019-01-17T15:50:59Z"
     }
   ]
 }
