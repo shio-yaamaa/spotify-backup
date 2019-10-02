@@ -80,6 +80,21 @@
         }
       ],
       "addedAt": "2017-10-05T20:33:42Z"
+    },
+    {
+      "id": "7al2umgR86au9ri0VazVD9",
+      "name": "Treat You Better - Ashworth Remix",
+      "artists": [
+        {
+          "id": "7n2wHs1TKAczGzO7Dd2rGr",
+          "name": "Shawn Mendes"
+        },
+        {
+          "id": "3pcGjcfEW3YD2Hfk6tDR5S",
+          "name": "Ashworth"
+        }
+      ],
+      "addedAt": "2017-10-06T01:22:40Z"
     }
   ]
 }
