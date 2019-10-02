@@ -343,6 +343,25 @@
         }
       ],
       "addedAt": "2018-07-03T12:10:05Z"
+    },
+    {
+      "id": "55y30bh2ZUtzOXjWLxn7XT",
+      "name": "In the Name of Love - DallasK Remix",
+      "artists": [
+        {
+          "id": "60d24wfXkVzDSfLS6hyCjZ",
+          "name": "Martin Garrix"
+        },
+        {
+          "id": "64M6ah0SkkRsnPGtGiRAbb",
+          "name": "Bebe Rexha"
+        },
+        {
+          "id": "7uas0F5EhsZg6KDJ7yy7rW",
+          "name": "DallasK"
+        }
+      ],
+      "addedAt": "2018-07-13T07:04:29Z"
     }
   ]
 }
