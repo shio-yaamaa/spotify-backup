@@ -373,6 +373,21 @@
         }
       ],
       "addedAt": "2018-08-01T06:41:47Z"
+    },
+    {
+      "id": "0c0l69JCctCQVdVi6IeZtH",
+      "name": "Out My Mind",
+      "artists": [
+        {
+          "id": "521qvhdobR0GzhvU6TFw76",
+          "name": "Tritonal"
+        },
+        {
+          "id": "7yZC6AEhvCD5NFR8yDUxCG",
+          "name": "Riley Clemmons"
+        }
+      ],
+      "addedAt": "2018-08-01T06:53:43Z"
     }
   ]
 }
