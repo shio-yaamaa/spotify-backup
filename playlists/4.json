@@ -142,6 +142,17 @@
         }
       ],
       "addedAt": "2019-02-09T07:10:09Z"
+    },
+    {
+      "id": "5XMkENs3GfeRza8MfVAhjK",
+      "name": "Finesse",
+      "artists": [
+        {
+          "id": "0du5cEVh5yTK9QJze8zA0C",
+          "name": "Bruno Mars"
+        }
+      ],
+      "addedAt": "2019-02-09T07:14:16Z"
     }
   ]
 }
