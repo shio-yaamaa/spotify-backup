@@ -362,6 +362,21 @@
         }
       ],
       "addedAt": "2019-02-24T16:09:25Z"
+    },
+    {
+      "id": "4keoy2fqgwGnbWlm3ZVZFa",
+      "name": "Happy Now",
+      "artists": [
+        {
+          "id": "2qxJFvFYMEDqd7ui6kSAcq",
+          "name": "Zedd"
+        },
+        {
+          "id": "67MNhiAICFY6Pwc2YxCO0K",
+          "name": "Elley Duhé"
+        }
+      ],
+      "addedAt": "2019-02-25T12:07:24Z"
     }
   ]
 }
