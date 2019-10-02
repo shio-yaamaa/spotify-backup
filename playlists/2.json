@@ -291,6 +291,21 @@
         }
       ],
       "addedAt": "2018-05-13T03:38:33Z"
+    },
+    {
+      "id": "5SD3nF4GLH4UTtt0OGWatS",
+      "name": "Idea of You",
+      "artists": [
+        {
+          "id": "1rSGNXhhYuWoq9BEz5DZGO",
+          "name": "ARTY"
+        },
+        {
+          "id": "2FLqlgckDKdmpBrvLAT5BM",
+          "name": "Eric Nam"
+        }
+      ],
+      "addedAt": "2018-11-12T15:11:54Z"
     }
   ]
 }
