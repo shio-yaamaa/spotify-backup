@@ -321,6 +321,21 @@
         }
       ],
       "addedAt": "2019-01-05T10:32:21Z"
+    },
+    {
+      "id": "6dvjPTnrQoXfKjgxtE0wF7",
+      "name": "Stargazing (feat. Amelie)",
+      "artists": [
+        {
+          "id": "5HqJR4LXclbZPAwQ636j84",
+          "name": "Severo"
+        },
+        {
+          "id": "68Spx9j3Okz0PeAjH95QPp",
+          "name": "Amelie"
+        }
+      ],
+      "addedAt": "2019-01-05T10:32:36Z"
     }
   ]
 }
