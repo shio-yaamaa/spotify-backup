@@ -1,5 +1,17 @@
 {
   "id": "29QUKtR2u3cWCgZf8OaKyc",
   "name": "7",
-  "tracks": []
+  "tracks": [
+    {
+      "id": "4ZVSSE2JUJwsyTukDwjoT6",
+      "name": "Sign",
+      "artists": [
+        {
+          "id": "1Q50Y9cXWlkNEG6gJfUP1e",
+          "name": "DEAMN"
+        }
+      ],
+      "addedAt": "2019-08-13T14:33:02Z"
+    }
+  ]
 }
