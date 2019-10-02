@@ -102,6 +102,21 @@
         }
       ],
       "addedAt": "2019-06-15T13:21:08Z"
+    },
+    {
+      "id": "5W8DSMQe7cbTtKTHY0yEnP",
+      "name": "In Flames",
+      "artists": [
+        {
+          "id": "7lZauDnRoAC3kmaYae2opv",
+          "name": "Dabin"
+        },
+        {
+          "id": "4jjDncozkOf5MTdXPkBYdV",
+          "name": "Lexi Norton"
+        }
+      ],
+      "addedAt": "2019-06-15T13:21:13Z"
     }
   ]
 }
