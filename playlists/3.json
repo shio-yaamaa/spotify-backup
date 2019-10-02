@@ -1,5 +1,25 @@
 {
   "id": "7nYFZjL8r8KJAWygorAG7S",
   "name": "3",
-  "tracks": []
+  "tracks": [
+    {
+      "id": "6rPO02ozF3bM7NnOV4h6s2",
+      "name": "Despacito - Remix",
+      "artists": [
+        {
+          "id": "4V8Sr092TqfHkfAA5fXXqG",
+          "name": "Luis Fonsi"
+        },
+        {
+          "id": "4VMYDCV2IEDYJArk749S6m",
+          "name": "Daddy Yankee"
+        },
+        {
+          "id": "1uNFoZAHBGtllmzznpCI3s",
+          "name": "Justin Bieber"
+        }
+      ],
+      "addedAt": "2017-11-10T21:47:40Z"
+    }
+  ]
 }
