@@ -409,6 +409,17 @@
         }
       ],
       "addedAt": "2019-05-18T14:30:45Z"
+    },
+    {
+      "id": "45vW6Apg3QwawKzBi03rgD",
+      "name": "Clear My Head",
+      "artists": [
+        {
+          "id": "00CYRdkMnA0mwfy1VQPA7X",
+          "name": "Ellis"
+        }
+      ],
+      "addedAt": "2019-09-04T15:14:38Z"
     }
   ]
 }
