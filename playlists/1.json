@@ -399,6 +399,21 @@
         }
       ],
       "addedAt": "2018-08-01T06:58:28Z"
+    },
+    {
+      "id": "677RjvAT2lpYjo1Whczjzx",
+      "name": "It Ain't Me",
+      "artists": [
+        {
+          "id": "23fqKkggKUBHNkbKtXEls4",
+          "name": "Kygo"
+        },
+        {
+          "id": "0C8ZW7ezQVs4URX5aX7Kqx",
+          "name": "Selena Gomez"
+        }
+      ],
+      "addedAt": "2018-08-01T07:01:00Z"
     }
   ]
 }
