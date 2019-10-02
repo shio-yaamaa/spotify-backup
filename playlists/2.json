@@ -336,6 +336,21 @@
         }
       ],
       "addedAt": "2019-01-05T10:32:36Z"
+    },
+    {
+      "id": "2wrn5YlV2a3dtKGQOwNTfC",
+      "name": "Cream & Sugar",
+      "artists": [
+        {
+          "id": "7wmCy21VjfmbP8DznMJe8v",
+          "name": "Plastik Funk"
+        },
+        {
+          "id": "2hhBdRISVgpA5dNp6YeUgL",
+          "name": "Daisy Kilbourne"
+        }
+      ],
+      "addedAt": "2019-01-05T10:36:41Z"
     }
   ]
 }
