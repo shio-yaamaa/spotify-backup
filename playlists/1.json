@@ -110,6 +110,21 @@
         }
       ],
       "addedAt": "2017-10-08T03:35:22Z"
+    },
+    {
+      "id": "6RUKPb4LETWmmr3iAEQktW",
+      "name": "Something Just Like This",
+      "artists": [
+        {
+          "id": "69GGBxA162lTqCwzJG5jLp",
+          "name": "The Chainsmokers"
+        },
+        {
+          "id": "4gzpq5DPGxSnKTe4SA8HAU",
+          "name": "Coldplay"
+        }
+      ],
+      "addedAt": "2017-10-08T03:40:57Z"
     }
   ]
 }
