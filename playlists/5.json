@@ -387,6 +387,17 @@
         }
       ],
       "addedAt": "2019-05-07T17:16:54Z"
+    },
+    {
+      "id": "15bAKKFXN8DNs8Z5YSa2nW",
+      "name": "Applause",
+      "artists": [
+        {
+          "id": "1HY2Jd0NmPuamShAr6KMms",
+          "name": "Lady Gaga"
+        }
+      ],
+      "addedAt": "2019-05-14T06:34:30Z"
     }
   ]
 }
