@@ -31,6 +31,25 @@
         }
       ],
       "addedAt": "2017-10-01T22:34:55Z"
+    },
+    {
+      "id": "389MC596K4IN35zaHAyuYz",
+      "name": "Scared To Be Lonely - Brooks Remix",
+      "artists": [
+        {
+          "id": "60d24wfXkVzDSfLS6hyCjZ",
+          "name": "Martin Garrix"
+        },
+        {
+          "id": "6M2wZ9GZgrQXHCFfjv46we",
+          "name": "Dua Lipa"
+        },
+        {
+          "id": "4mHAu7NX2UNsnGXjviBD9e",
+          "name": "Brooks"
+        }
+      ],
+      "addedAt": "2017-10-01T22:34:59Z"
     }
   ]
 }
