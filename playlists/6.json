@@ -204,6 +204,17 @@
         }
       ],
       "addedAt": "2019-06-18T12:25:16Z"
+    },
+    {
+      "id": "4tERsdVCLtLtrGdFBf9DGC",
+      "name": "New",
+      "artists": [
+        {
+          "id": "6Dd3NScHWwnW6obMFbl1BH",
+          "name": "Daya"
+        }
+      ],
+      "addedAt": "2019-06-18T12:25:23Z"
     }
   ]
 }
