@@ -256,6 +256,29 @@
         }
       ],
       "addedAt": "2018-05-13T03:39:22Z"
+    },
+    {
+      "id": "5Gu0PDLN4YJeW75PpBSg9p",
+      "name": "Let Me Go (with Alesso, Florida Georgia Line & watt)",
+      "artists": [
+        {
+          "id": "5p7f24Rk5HkUZsaS3BLG5F",
+          "name": "Hailee Steinfeld"
+        },
+        {
+          "id": "4AVFqumd2ogHFlRbKIjp1t",
+          "name": "Alesso"
+        },
+        {
+          "id": "3b8QkneNDz4JHKKKlLgYZg",
+          "name": "Florida Georgia Line"
+        },
+        {
+          "id": "4olE3I5QU0dvSR7LIpqTXc",
+          "name": "watt"
+        }
+      ],
+      "addedAt": "2018-05-13T03:39:31Z"
     }
   ]
 }
