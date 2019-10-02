@@ -114,6 +114,25 @@
         }
       ],
       "addedAt": "2019-09-04T13:57:36Z"
+    },
+    {
+      "id": "4SF6S1UUsTes8qQfpnnOWB",
+      "name": "Control",
+      "artists": [
+        {
+          "id": "0okpgBQamDqOZazBeH0J3I",
+          "name": "Unknown Brain"
+        },
+        {
+          "id": "4u1nYxjl132D6rcMeYQ6Zz",
+          "name": "Rival"
+        },
+        {
+          "id": "0NO8SsF6umjI3iQJzTycVF",
+          "name": "Jex"
+        }
+      ],
+      "addedAt": "2019-09-04T14:02:28Z"
     }
   ]
 }
