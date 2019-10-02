@@ -1,5 +1,25 @@
 {
   "id": "1rZp4JPWoKSODY3F65ffcg",
   "name": "New",
-  "tracks": []
+  "tracks": [
+    {
+      "id": "5KLb0idu7AXxVS11Ph57Ee",
+      "name": "Fractures (Joshua Francois Remix)",
+      "artists": [
+        {
+          "id": "6RJbFqgnnHvQcq8TGdCIn2",
+          "name": "James Mercy"
+        },
+        {
+          "id": "1rHE9GIzQio52kTCadXdyL",
+          "name": "Ameria"
+        },
+        {
+          "id": "6cZrFzGumgIBg0QnixF6Dp",
+          "name": "Joshua Francois"
+        }
+      ],
+      "addedAt": "2019-04-28T14:50:29Z"
+    }
+  ]
 }
