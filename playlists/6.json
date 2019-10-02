@@ -61,6 +61,25 @@
         }
       ],
       "addedAt": "2019-06-15T13:20:46Z"
+    },
+    {
+      "id": "6sK0xQU3KV3nVbuIIGWOFe",
+      "name": "Stay (feat. Betsy Blue)",
+      "artists": [
+        {
+          "id": "47BEc2RoW53owMyxacXWdV",
+          "name": "Yves V"
+        },
+        {
+          "id": "55sPqHriTUlXdrHHjPdNft",
+          "name": "Matthew Hill"
+        },
+        {
+          "id": "3qCytO4WqjD2ntva5l1sHx",
+          "name": "Betsy Blue"
+        }
+      ],
+      "addedAt": "2019-06-15T13:20:53Z"
     }
   ]
 }
