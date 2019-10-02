@@ -160,6 +160,21 @@
         }
       ],
       "addedAt": "2017-11-02T02:41:28Z"
+    },
+    {
+      "id": "1x5sYLZiu9r5E43kMlt9f8",
+      "name": "Symphony (feat. Zara Larsson)",
+      "artists": [
+        {
+          "id": "6MDME20pz9RveH9rEXvrOM",
+          "name": "Clean Bandit"
+        },
+        {
+          "id": "1Xylc3o4UrD53lo9CvFvVg",
+          "name": "Zara Larsson"
+        }
+      ],
+      "addedAt": "2018-04-15T01:42:10Z"
     }
   ]
 }
