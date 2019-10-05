@@ -782,6 +782,17 @@
         }
       ],
       "addedAt": "2019-10-03T16:42:38Z"
+    },
+    {
+      "id": "69uCmYNvkqnvIpyTKJXZ5P",
+      "name": "Better",
+      "artists": [
+        {
+          "id": "3GtCKJA4SkOxN65MWjm82R",
+          "name": "Hot Shade"
+        }
+      ],
+      "addedAt": "2019-10-05T07:30:16Z"
     }
   ]
 }
