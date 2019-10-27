@@ -50,6 +50,25 @@
         }
       ],
       "addedAt": "2019-10-26T15:12:03Z"
+    },
+    {
+      "id": "7iwFoj8wdOtJ6mJA61q9ej",
+      "name": "Habits",
+      "artists": [
+        {
+          "id": "6JHNAPuxS36GObqF84lsX0",
+          "name": "AXEN"
+        },
+        {
+          "id": "6udTdS28zyiBpZk8LBIRPF",
+          "name": "HYLO"
+        },
+        {
+          "id": "4D9a1UPPFCoOm1kBtJfni5",
+          "name": "Akacia"
+        }
+      ],
+      "addedAt": "2019-10-26T15:17:16Z"
     }
   ]
 }
