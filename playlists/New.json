@@ -704,6 +704,21 @@
         }
       ],
       "addedAt": "2019-10-26T14:53:45Z"
+    },
+    {
+      "id": "3AT5zKqec0wrw28UOT8GwB",
+      "name": "Echoes",
+      "artists": [
+        {
+          "id": "6IaUmXLyN20djYxvBlTk4c",
+          "name": "Domastic"
+        },
+        {
+          "id": "2Ndq6RparrhEoceel7LC4Z",
+          "name": "Anna Yvette"
+        }
+      ],
+      "addedAt": "2019-11-03T07:05:41Z"
     }
   ]
 }
