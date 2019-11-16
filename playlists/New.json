@@ -640,6 +640,25 @@
         }
       ],
       "addedAt": "2019-11-03T07:05:41Z"
+    },
+    {
+      "id": "0OJa9aPHLGL3nPYnmrWUC7",
+      "name": "Wherever I Go",
+      "artists": [
+        {
+          "id": "3iGTIdf1fn9YmiiZiODGTl",
+          "name": "ANG"
+        },
+        {
+          "id": "4hEojNVUgNvXDE8Aem4P7h",
+          "name": "Trilane"
+        },
+        {
+          "id": "3Ao6gAvkCZUtj4ALBjNmXV",
+          "name": "David Shane"
+        }
+      ],
+      "addedAt": "2019-11-16T09:52:40Z"
     }
   ]
 }
