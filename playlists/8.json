@@ -200,6 +200,21 @@
         }
       ],
       "addedAt": "2019-11-16T19:27:44Z"
+    },
+    {
+      "id": "5HnioK8yPcyuKtV55O6QTW",
+      "name": "WILDFIRE",
+      "artists": [
+        {
+          "id": "40HDiLfKm0tXk2FxlJx6aO",
+          "name": "Jim Yosef"
+        },
+        {
+          "id": "1HQ26IHQ1Nu0Tq7EE7DV6y",
+          "name": "Sara Skinner"
+        }
+      ],
+      "addedAt": "2019-11-18T16:24:48Z"
     }
   ]
 }
