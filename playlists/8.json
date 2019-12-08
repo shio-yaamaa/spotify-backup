@@ -215,6 +215,33 @@
         }
       ],
       "addedAt": "2019-11-18T16:24:48Z"
+    },
+    {
+      "id": "4IuE1nakV5OFh3CMqnS5QJ",
+      "name": "Stuck (feat. Tove Styrke) - Kuur x Kbubs x DCB Remix",
+      "artists": [
+        {
+          "id": "3hyEbRtp617pNCuuQjyOmc",
+          "name": "Lost Kings"
+        },
+        {
+          "id": "2QSPrJfYeRXaltEEiriXN9",
+          "name": "Tove Styrke"
+        },
+        {
+          "id": "71QLIIyx26UdND1sHEskNs",
+          "name": "Kuur"
+        },
+        {
+          "id": "3MhkCKMIDneKVKyK4Hvv0d",
+          "name": "Kbubs"
+        },
+        {
+          "id": "6tnjceKmx85L09ZYkufeUU",
+          "name": "DCB"
+        }
+      ],
+      "addedAt": "2019-12-08T03:16:54Z"
     }
   ]
 }
