@@ -374,6 +374,21 @@
         }
       ],
       "addedAt": "2019-12-13T17:36:34Z"
+    },
+    {
+      "id": "0ED9gedrv5k75SBqII8T1c",
+      "name": "Shockwave",
+      "artists": [
+        {
+          "id": "6RQ9kYbHisp1UUbnfwHNeU",
+          "name": "Feint"
+        },
+        {
+          "id": "0EHYuPn9Xng2lZP2cfz4cV",
+          "name": "Heather Sommer"
+        }
+      ],
+      "addedAt": "2019-12-18T04:01:55Z"
     }
   ]
 }
