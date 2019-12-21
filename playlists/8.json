@@ -389,6 +389,21 @@
         }
       ],
       "addedAt": "2019-12-18T04:01:55Z"
+    },
+    {
+      "id": "4VZH6OfxPy1nNE7KbtVKyK",
+      "name": "Fearless Pt. II",
+      "artists": [
+        {
+          "id": "157L8iTHgbdrKVxdQEXluh",
+          "name": "Lost Sky"
+        },
+        {
+          "id": "5Wpn7BDRJ8oq7CcF1EufWI",
+          "name": "Chris Linton"
+        }
+      ],
+      "addedAt": "2019-12-20T19:45:30Z"
     }
   ]
 }
