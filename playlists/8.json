@@ -404,6 +404,25 @@
         }
       ],
       "addedAt": "2019-12-20T19:45:30Z"
+    },
+    {
+      "id": "1GYKVzJ9GQuYrdXsE3Xba9",
+      "name": "We're Dynamite (Hallman Remix)",
+      "artists": [
+        {
+          "id": "3OEFtQRq38Ysp1BZdmbK7h",
+          "name": "Craig Reever"
+        },
+        {
+          "id": "6lQbKezHkug0aJSkAjYYO5",
+          "name": "Hallman"
+        },
+        {
+          "id": "4d2xTWSBnfKWxt1sG2YPQ4",
+          "name": "Willow"
+        }
+      ],
+      "addedAt": "2019-12-27T05:51:01Z"
     }
   ]
 }
