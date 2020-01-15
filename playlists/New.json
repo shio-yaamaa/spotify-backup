@@ -494,6 +494,21 @@
         }
       ],
       "addedAt": "2020-01-15T02:40:36Z"
+    },
+    {
+      "id": "3dKCNrvXhN0eAbXMYFlAKt",
+      "name": "Rhythm",
+      "artists": [
+        {
+          "id": "7yoh9onDM7XQFBepQTI6Qu",
+          "name": "Lvly"
+        },
+        {
+          "id": "4ysa9WmL4Ac8X8lv6Ud7tC",
+          "name": "Frigga"
+        }
+      ],
+      "addedAt": "2020-01-15T09:43:37Z"
     }
   ]
 }
