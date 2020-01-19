@@ -509,6 +509,25 @@
         }
       ],
       "addedAt": "2020-01-15T09:43:37Z"
+    },
+    {
+      "id": "2t9l7Jl7v5jMfUlJtUiWU5",
+      "name": "Want It All",
+      "artists": [
+        {
+          "id": "2jrBiKykLqcIp2S7GLiahy",
+          "name": "Cadmium"
+        },
+        {
+          "id": "0Y0r9IKRjfC62MAYMDEMZO",
+          "name": "Timmy Commerford"
+        },
+        {
+          "id": "0z2sZ5X5IYto3064T3zAje",
+          "name": "Jaytee"
+        }
+      ],
+      "addedAt": "2020-01-18T19:25:40Z"
     }
   ]
 }
