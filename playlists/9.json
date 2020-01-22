@@ -1,5 +1,21 @@
 {
   "id": "2NvWeZMWAql9Uognaxy0uT",
   "name": "9",
-  "tracks": []
+  "tracks": [
+    {
+      "id": "7sKyO0YNXhrMTiFrYavRxO",
+      "name": "Sun Goes Down",
+      "artists": [
+        {
+          "id": "6CK2nmnsqef5YFU7ckNTqH",
+          "name": "Aiyo"
+        },
+        {
+          "id": "51ba6EINq7nuVPOvX1Ti1q",
+          "name": "Josh Sipfle"
+        }
+      ],
+      "addedAt": "2020-01-22T10:09:11Z"
+    }
+  ]
 }
