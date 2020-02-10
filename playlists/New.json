@@ -588,6 +588,25 @@
         }
       ],
       "addedAt": "2020-02-02T07:00:03Z"
+    },
+    {
+      "id": "1CZUz7vzalqzJq0khI74VL",
+      "name": "Seasons - Futuristik & Whogaux Remix",
+      "artists": [
+        {
+          "id": "4u1nYxjl132D6rcMeYQ6Zz",
+          "name": "Rival"
+        },
+        {
+          "id": "2jrBiKykLqcIp2S7GLiahy",
+          "name": "Cadmium"
+        },
+        {
+          "id": "7kXDaUD3imvM6el5qK6tAu",
+          "name": "Harley Bird"
+        }
+      ],
+      "addedAt": "2020-02-09T23:34:00Z"
     }
   ]
 }
