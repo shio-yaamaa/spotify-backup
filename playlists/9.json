@@ -110,6 +110,25 @@
         }
       ],
       "addedAt": "2020-02-26T04:43:56Z"
+    },
+    {
+      "id": "1xgrGw2QBV6VuC7UKAXBBU",
+      "name": "Rise Up",
+      "artists": [
+        {
+          "id": "3exvMmrLV6o4R42YnG3Id6",
+          "name": "Egzod"
+        },
+        {
+          "id": "3xIHOffeC188QWHIiCaLXr",
+          "name": "Veronica Bravo"
+        },
+        {
+          "id": "1RdQK73ZgvXjkaBJkibE6X",
+          "name": "M.I.M.E"
+        }
+      ],
+      "addedAt": "2020-03-01T16:15:33Z"
     }
   ]
 }
