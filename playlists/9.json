@@ -237,6 +237,21 @@
         }
       ],
       "addedAt": "2020-03-28T05:54:51Z"
+    },
+    {
+      "id": "7GfKD5B7fVAzUgDvqAIbSL",
+      "name": "Can We Pretend (feat. Cash Cash)",
+      "artists": [
+        {
+          "id": "1KCSPY1glIKqW2TotWuXOR",
+          "name": "P!nk"
+        },
+        {
+          "id": "1LOB7jTeEV14pHai6EXSzF",
+          "name": "Cash Cash"
+        }
+      ],
+      "addedAt": "2020-03-29T18:40:37Z"
     }
   ]
 }
