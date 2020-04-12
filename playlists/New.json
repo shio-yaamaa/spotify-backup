@@ -434,6 +434,17 @@
         }
       ],
       "addedAt": "2020-03-24T20:19:16Z"
+    },
+    {
+      "id": "0QgU33Y734Amggy9yjqgE5",
+      "name": "Hawaii",
+      "artists": [
+        {
+          "id": "1lh46TJVo87ovTNTcpdIeH",
+          "name": "Chin Chilla"
+        }
+      ],
+      "addedAt": "2020-04-11T13:29:44Z"
     }
   ]
 }
