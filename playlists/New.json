@@ -460,6 +460,25 @@
         }
       ],
       "addedAt": "2020-04-11T13:32:24Z"
+    },
+    {
+      "id": "2PhreM56MCjvtLdSxhD7YB",
+      "name": "Animal",
+      "artists": [
+        {
+          "id": "4SdjRO432fApGQp8iHbgIF",
+          "name": "Debris"
+        },
+        {
+          "id": "7hf6L4LN1RTVN66IdBVpPr",
+          "name": "RudeLies"
+        },
+        {
+          "id": "0NO8SsF6umjI3iQJzTycVF",
+          "name": "Jex"
+        }
+      ],
+      "addedAt": "2020-04-11T20:36:47Z"
     }
   ]
 }
