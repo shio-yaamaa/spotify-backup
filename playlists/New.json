@@ -513,6 +513,21 @@
         }
       ],
       "addedAt": "2020-04-13T17:33:57Z"
+    },
+    {
+      "id": "1daF6zsNUPIAMH5LWYJhvh",
+      "name": "New Horizon",
+      "artists": [
+        {
+          "id": "0t5H8FcoVPzn4sVeNxibMU",
+          "name": "JPB"
+        },
+        {
+          "id": "0zOdQ0bnEjsmwgnR3fqwYz",
+          "name": "Deverano"
+        }
+      ],
+      "addedAt": "2020-04-15T17:32:43Z"
     }
   ]
 }
