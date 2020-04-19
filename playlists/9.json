@@ -361,6 +361,21 @@
         }
       ],
       "addedAt": "2020-04-13T10:57:39Z"
+    },
+    {
+      "id": "27b2LZg4ZsO3R8ZpGTzl54",
+      "name": "Otherside",
+      "artists": [
+        {
+          "id": "6ydu7uQ1zZeWUA7FuKnTWG",
+          "name": "Suyano"
+        },
+        {
+          "id": "5dlXp2PYNwRSdvFtSBFN9X",
+          "name": "RIVERO"
+        }
+      ],
+      "addedAt": "2020-04-18T16:22:10Z"
     }
   ]
 }
