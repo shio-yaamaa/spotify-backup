@@ -1,5 +1,25 @@
 {
   "id": "5wSuZjF2xBPv4oHRlObQFk",
   "name": "10",
-  "tracks": []
+  "tracks": [
+    {
+      "id": "3ggYh63xx44IBKMggIbxEt",
+      "name": "While We're Young (COE Remix)",
+      "artists": [
+        {
+          "id": "6psCCMHymYfQy6VvYRr6cs",
+          "name": "Loving Caliber"
+        },
+        {
+          "id": "46P4MQc4LDOmOLq1lw9tkm",
+          "name": "Christine Smit"
+        },
+        {
+          "id": "4mZlNfQ3M4Xd5vXnu0JzwZ",
+          "name": "COE"
+        }
+      ],
+      "addedAt": "2020-05-01T12:41:12Z"
+    }
+  ]
 }
