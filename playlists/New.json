@@ -414,6 +414,25 @@
         }
       ],
       "addedAt": "2020-06-12T17:25:49Z"
+    },
+    {
+      "id": "4FmspSlQ8TeT02KrtFI1wh",
+      "name": "Different Now",
+      "artists": [
+        {
+          "id": "0WgPtMhzf64MVAoNG1QM5w",
+          "name": "Squalzz"
+        },
+        {
+          "id": "4kbFvZah1kAfBm1kM66Nj6",
+          "name": "Rickie Nolls"
+        },
+        {
+          "id": "7b1FMiWXZwOBsxi0uWw6wH",
+          "name": "Elle Vee"
+        }
+      ],
+      "addedAt": "2020-06-21T16:49:47Z"
     }
   ]
 }
