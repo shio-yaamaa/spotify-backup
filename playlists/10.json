@@ -182,6 +182,25 @@
         }
       ],
       "addedAt": "2020-07-04T19:19:58Z"
+    },
+    {
+      "id": "2fpenotLf0qxDaX9T1gK1b",
+      "name": "Rise Above",
+      "artists": [
+        {
+          "id": "3u45rXhQ0o9pUL24xlnf6e",
+          "name": "Chester Young"
+        },
+        {
+          "id": "2Tw3Czv2kxEz8h3RILbzjT",
+          "name": "Triple M"
+        },
+        {
+          "id": "0qczR3tMEP8VsRu9pCAWHP",
+          "name": "Nathan Brumley"
+        }
+      ],
+      "addedAt": "2020-07-06T16:28:39Z"
     }
   ]
 }
