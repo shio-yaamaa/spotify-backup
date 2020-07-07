@@ -220,6 +220,21 @@
         }
       ],
       "addedAt": "2020-07-06T16:28:39Z"
+    },
+    {
+      "id": "6v3KW9xbzN5yKLt9YKDYA2",
+      "name": "Señorita",
+      "artists": [
+        {
+          "id": "7n2wHs1TKAczGzO7Dd2rGr",
+          "name": "Shawn Mendes"
+        },
+        {
+          "id": "4nDoRrQiYLoBzwC5BhVJzF",
+          "name": "Camila Cabello"
+        }
+      ],
+      "addedAt": "2020-07-06T16:32:10Z"
     }
   ]
 }
