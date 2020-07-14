@@ -409,6 +409,21 @@
         }
       ],
       "addedAt": "2020-07-13T19:04:41Z"
+    },
+    {
+      "id": "4ebB0bQdVCDVeP5fXwOSzn",
+      "name": "Red Summer",
+      "artists": [
+        {
+          "id": "3dk1rVeMXKEiSSkLS3rO0J",
+          "name": "Holiday"
+        },
+        {
+          "id": "4kPiFVrevB1is0HCPDBK5H",
+          "name": "Damsel Adams"
+        }
+      ],
+      "addedAt": "2020-07-14T05:00:10Z"
     }
   ]
 }
