@@ -280,6 +280,17 @@
         }
       ],
       "addedAt": "2020-08-02T17:52:23Z"
+    },
+    {
+      "id": "3AzjcOeAmA57TIOr9zF1ZW",
+      "name": "Physical",
+      "artists": [
+        {
+          "id": "6M2wZ9GZgrQXHCFfjv46we",
+          "name": "Dua Lipa"
+        }
+      ],
+      "addedAt": "2020-08-02T17:55:45Z"
     }
   ]
 }
