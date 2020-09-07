@@ -416,6 +416,21 @@
         }
       ],
       "addedAt": "2020-09-06T16:40:12Z"
+    },
+    {
+      "id": "68Arx0Kb3jkQcKMIdmTTPi",
+      "name": "Follow",
+      "artists": [
+        {
+          "id": "4W9vuLWmzlcGv6stGVWPPC",
+          "name": "Tom Wilson"
+        },
+        {
+          "id": "0byRxHbgxjX6AG33hitWAV",
+          "name": "Lucas Marx"
+        }
+      ],
+      "addedAt": "2020-09-06T16:41:33Z"
     }
   ]
 }
