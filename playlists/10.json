@@ -425,6 +425,17 @@
         }
       ],
       "addedAt": "2020-09-05T08:21:10Z"
+    },
+    {
+      "id": "2w7lnEtW3WvfjCbyCMHOyc",
+      "name": "XS",
+      "artists": [
+        {
+          "id": "2KEqzdPS7M5YwGmiuPTdr5",
+          "name": "Rina Sawayama"
+        }
+      ],
+      "addedAt": "2020-09-06T16:56:36Z"
     }
   ]
 }
