@@ -405,6 +405,21 @@
         }
       ],
       "addedAt": "2020-12-22T04:28:16Z"
+    },
+    {
+      "id": "4FYbo4yQzu3hGkj2Ix4ucW",
+      "name": "Funny",
+      "artists": [
+        {
+          "id": "2qxJFvFYMEDqd7ui6kSAcq",
+          "name": "Zedd"
+        },
+        {
+          "id": "2TL8gYTNgD6nXkyuUdDrMg",
+          "name": "Jasmine Thompson"
+        }
+      ],
+      "addedAt": "2020-12-22T16:47:57Z"
     }
   ]
 }
