@@ -1,5 +1,21 @@
 {
   "id": "2Hkq3TjsC4jYPt0doddOHO",
   "name": "12",
-  "tracks": []
+  "tracks": [
+    {
+      "id": "4ebB0bQdVCDVeP5fXwOSzn",
+      "name": "Red Summer",
+      "artists": [
+        {
+          "id": "3dk1rVeMXKEiSSkLS3rO0J",
+          "name": "Holiday"
+        },
+        {
+          "id": "4kPiFVrevB1is0HCPDBK5H",
+          "name": "Damsel Adams"
+        }
+      ],
+      "addedAt": "2020-12-27T12:56:46Z"
+    }
+  ]
 }

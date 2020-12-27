@@ -3,21 +3,6 @@
   "name": "New",
   "tracks": [
     {
-      "id": "4ebB0bQdVCDVeP5fXwOSzn",
-      "name": "Red Summer",
-      "artists": [
-        {
-          "id": "3dk1rVeMXKEiSSkLS3rO0J",
-          "name": "Holiday"
-        },
-        {
-          "id": "4kPiFVrevB1is0HCPDBK5H",
-          "name": "Damsel Adams"
-        }
-      ],
-      "addedAt": "2020-07-14T05:00:10Z"
-    },
-    {
       "id": "1X1feHU5fQmZ0KbMTeDoO0",
       "name": "Walk Away",
       "artists": [
