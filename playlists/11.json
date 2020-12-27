@@ -420,6 +420,21 @@
         }
       ],
       "addedAt": "2020-12-22T16:47:57Z"
+    },
+    {
+      "id": "06sYjPSeMOTV1PciLkpAgl",
+      "name": "Puzzle",
+      "artists": [
+        {
+          "id": "3L7JnVovGbYSUmRyqhXMYO",
+          "name": "Fairlane"
+        },
+        {
+          "id": "0OE65qjIKHqSyU7YWpOQrv",
+          "name": "Claire Ridgely"
+        }
+      ],
+      "addedAt": "2020-12-27T12:52:15Z"
     }
   ]
 }
