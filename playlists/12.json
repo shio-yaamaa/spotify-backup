@@ -57,6 +57,17 @@
         }
       ],
       "addedAt": "2020-12-30T19:08:50Z"
+    },
+    {
+      "id": "5BArc3UpONi77FMkNT4LYU",
+      "name": "Producer Man",
+      "artists": [
+        {
+          "id": "4pfy05cNNTacuOQ6SiSu4v",
+          "name": "Lyn Lapid"
+        }
+      ],
+      "addedAt": "2021-01-04T13:10:00Z"
     }
   ]
 }
