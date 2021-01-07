@@ -337,6 +337,25 @@
         }
       ],
       "addedAt": "2021-01-05T22:47:46Z"
+    },
+    {
+      "id": "2YhF6jwopT55f7mKQynoQq",
+      "name": "24 Hours x Gypsy Woman (feat. Yasmin Green & Crystal Waters) [VIP Mash-up]",
+      "artists": [
+        {
+          "id": "6MDME20pz9RveH9rEXvrOM",
+          "name": "Clean Bandit"
+        },
+        {
+          "id": "2sd9Q3r0Jhqpe3w9WVuG43",
+          "name": "Crystal Waters"
+        },
+        {
+          "id": "2UWEzvq7cBIcPt5Z9AwD1Y",
+          "name": "Yasmin Green"
+        }
+      ],
+      "addedAt": "2021-01-07T08:41:59Z"
     }
   ]
 }
