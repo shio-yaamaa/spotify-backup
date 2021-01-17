@@ -323,6 +323,21 @@
         }
       ],
       "addedAt": "2021-01-11T04:44:15Z"
+    },
+    {
+      "id": "53kWAAfx7IopXRa31MQHB8",
+      "name": "Good Vibes",
+      "artists": [
+        {
+          "id": "28y6CyJNkGNjJQKrlx4AmN",
+          "name": "HRVY"
+        },
+        {
+          "id": "4YXycRbyyAE0wozTk7QMEq",
+          "name": "Matoma"
+        }
+      ],
+      "addedAt": "2021-01-17T14:45:40Z"
     }
   ]
 }
