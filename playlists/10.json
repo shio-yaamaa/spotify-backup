@@ -442,12 +442,12 @@
       "name": "Top of New York",
       "artists": [
         {
-          "id": "69weKTfYYEBofMntV36KPG",
-          "name": "Jake Neumar"
-        },
-        {
           "id": "3MhkCKMIDneKVKyK4Hvv0d",
           "name": "Kbubs"
+        },
+        {
+          "id": "22LqgYDddWouOERE4NRTNU",
+          "name": "Jake Neumar"
         }
       ],
       "addedAt": "2020-09-14T18:01:28Z"
