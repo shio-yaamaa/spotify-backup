@@ -251,6 +251,17 @@
         }
       ],
       "addedAt": "2021-02-08T02:38:14Z"
+    },
+    {
+      "id": "1DsKoAFVN9VMdQxRky35bH",
+      "name": "San Diego",
+      "artists": [
+        {
+          "id": "3yHcgChNW7jVTvgBfgrTeT",
+          "name": "BRDGS"
+        }
+      ],
+      "addedAt": "2021-02-28T22:24:44Z"
     }
   ]
 }
