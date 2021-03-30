@@ -3,21 +3,6 @@
   "name": "New",
   "tracks": [
     {
-      "id": "0BTzSOZPWTLi0d6D13x0rd",
-      "name": "Moved On",
-      "artists": [
-        {
-          "id": "6ICrP7CEFDi4xglwy9d8lH",
-          "name": "brompton"
-        },
-        {
-          "id": "6R57JlNKlnNrYaji0vw8xx",
-          "name": "Gareth.T"
-        }
-      ],
-      "addedAt": "2020-10-07T19:48:02Z"
-    },
-    {
       "id": "1Wr6zfVnj5dRVC4Xqf8ZZY",
       "name": "Alibi",
       "artists": [
