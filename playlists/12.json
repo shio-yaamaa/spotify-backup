@@ -374,6 +374,25 @@
         }
       ],
       "addedAt": "2021-03-30T04:46:13Z"
+    },
+    {
+      "id": "67p3rriE3VbvcsIuQjfVQ1",
+      "name": "Taking Control",
+      "artists": [
+        {
+          "id": "37H2zWHT07jLwDF8ddpu6m",
+          "name": "Raptures."
+        },
+        {
+          "id": "5I3AwOX9Fr2gEG6SKmltH6",
+          "name": "Sam Ourt"
+        },
+        {
+          "id": "4jbh1BeqqFVqqH7GACcWdH",
+          "name": "Halvorsen"
+        }
+      ],
+      "addedAt": "2021-04-17T07:49:28Z"
     }
   ]
 }
