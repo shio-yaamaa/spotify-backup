@@ -189,6 +189,21 @@
         }
       ],
       "addedAt": "2021-09-28T16:38:46Z"
+    },
+    {
+      "id": "0riVKRa5xqaNCV6qpKpVls",
+      "name": "Stupid as You",
+      "artists": [
+        {
+          "id": "2bOcFoSypJcNgs5IaXVKMp",
+          "name": "Katnip"
+        },
+        {
+          "id": "3y3turaJpe5Lpmuc9Uhhfo",
+          "name": "Asta"
+        }
+      ],
+      "addedAt": "2021-09-28T16:42:42Z"
     }
   ]
 }
