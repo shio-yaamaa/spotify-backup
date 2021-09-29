@@ -110,6 +110,29 @@
         }
       ],
       "addedAt": "2021-09-28T16:24:04Z"
+    },
+    {
+      "id": "2YhF6jwopT55f7mKQynoQq",
+      "name": "24 Hours x Gypsy Woman (feat. Yasmin Green, Crystal Waters & Bougenvilla ) [VIP Mash-up]",
+      "artists": [
+        {
+          "id": "6MDME20pz9RveH9rEXvrOM",
+          "name": "Clean Bandit"
+        },
+        {
+          "id": "2sd9Q3r0Jhqpe3w9WVuG43",
+          "name": "Crystal Waters"
+        },
+        {
+          "id": "1I5pYXplsbqmHaVWlAEhla",
+          "name": "Bougenvilla"
+        },
+        {
+          "id": "2UWEzvq7cBIcPt5Z9AwD1Y",
+          "name": "Yasmin Green"
+        }
+      ],
+      "addedAt": "2021-09-28T16:26:24Z"
     }
   ]
 }
