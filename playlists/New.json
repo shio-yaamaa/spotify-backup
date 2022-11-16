@@ -306,6 +306,21 @@
         }
       ],
       "addedAt": "2022-11-14T09:10:49Z"
+    },
+    {
+      "id": "6rwhrp7xkm8xTSZOBwIyyv",
+      "name": "Lights Out",
+      "artists": [
+        {
+          "id": "3XFcu2NnGWceLNdxRCfYH3",
+          "name": "Taska Black"
+        },
+        {
+          "id": "4DuXwkPXoIIVfGuPsmUKrF",
+          "name": "Alioth"
+        }
+      ],
+      "addedAt": "2022-11-16T09:42:47Z"
     }
   ]
 }
