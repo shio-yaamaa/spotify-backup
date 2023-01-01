@@ -26,9 +26,9 @@
     "jest": "^24.9.0",
     "js-yaml": "^3.13.1",
     "ts-jest": "^24.1.0",
-    "ts-loader": "^6.1.0",
+    "ts-loader": "^9.4.2",
     "typescript": "^3.6.3",
-    "webpack": "^4.40.2",
-    "webpack-cli": "^3.3.9"
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
   }
 }
